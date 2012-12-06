@@ -1,4 +1,5 @@
-class user_controller
+<?php
+class user_controller extends controller
 {
 	$userid;
 	$user_type;

@@ -1,5 +1,5 @@
 <?php
-class announcement_controller
+class announcement_controller extends controller
 {
 	public static function create()
 	{
